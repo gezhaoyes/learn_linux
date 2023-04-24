@@ -1,0 +1,1 @@
+cmd_/mnt/hgfs/代码/drivers/imx6/2_miscbeep/miscbeep.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /mnt/hgfs/代码/drivers/imx6/2_miscbeep/miscbeep.ko /mnt/hgfs/代码/drivers/imx6/2_miscbeep/miscbeep.o /mnt/hgfs/代码/drivers/imx6/2_miscbeep/miscbeep.mod.o
