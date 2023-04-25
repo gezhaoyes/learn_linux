@@ -1,1 +1,0 @@
-cmd_/mnt/hgfs/代码/drivers/imx6/1_chrdevbase/chrdevbaseApp.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /mnt/hgfs/代码/drivers/imx6/1_chrdevbase/chrdevbaseApp.ko /mnt/hgfs/代码/drivers/imx6/1_chrdevbase/chrdevbaseApp.o /mnt/hgfs/代码/drivers/imx6/1_chrdevbase/chrdevbaseApp.mod.o
